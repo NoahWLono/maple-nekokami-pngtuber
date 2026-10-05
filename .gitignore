@@ -1,0 +1,20 @@
+# Generated local output and environments
+build/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.cache/
+*.log
+# Never commit credentials, local account/session state, or downloaded runtimes
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+cookies*
+credentials*
+apps/
+downloads/
+.DS_Store

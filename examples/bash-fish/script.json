@@ -1,0 +1,86 @@
+[
+  {
+    "index": 1,
+    "text": "Wait, tiny terminal rabbit hole!",
+    "speech": "Wait, tiny terminal rabbit hole!",
+    "scene": "intro"
+  },
+  {
+    "index": 2,
+    "text": "Bash versus fish is a friendship question with syntax consequences.",
+    "speech": "Bash versus fish is a friendship question with syntax consequences.",
+    "scene": "intro"
+  },
+  {
+    "index": 3,
+    "text": "Bash means Bourne Again Shell. Yes, the name is a dad joke.",
+    "speech": "Bash means Bourne Again Shell. Yes, the name is a dad joke.",
+    "scene": "bash"
+  },
+  {
+    "index": 4,
+    "text": "Fish gives you autosuggestions and syntax highlighting out of the box.",
+    "speech": "Fish gives you autosuggestions and syntax highlighting out of the box.",
+    "scene": "fish"
+  },
+  {
+    "index": 5,
+    "text": "It's remembering that command from yesterday. Precious.",
+    "speech": "It's remembering that command from yesterday. Precious.",
+    "scene": "fish"
+  },
+  {
+    "index": 6,
+    "text": "But fish has different grammar!",
+    "speech": "But fish has different grammar!",
+    "scene": "syntax"
+  },
+  {
+    "index": 7,
+    "text": "In bash: name equals Maple, no spaces.",
+    "speech": "In bash: name equals Maple, no spaces.",
+    "scene": "syntax"
+  },
+  {
+    "index": 8,
+    "text": "In fish: set, space, name, space, Maple. Little sentence!",
+    "speech": "In fish: set, space, name, space, Maple. Little sentence!",
+    "scene": "syntax"
+  },
+  {
+    "index": 9,
+    "text": "Fish intentionally isn't POSIX compatible, so pasted bash syntax won't always work.",
+    "speech": "Fish intentionally isn't pozicks compatible, so pasted bash syntax won't always work.",
+    "scene": "compat"
+  },
+  {
+    "index": 10,
+    "text": "But you can launch a bash script from fish: bash, space, script dot sh.",
+    "speech": "But you can launch a bash script from fish: bash, space, script dot sh.",
+    "scene": "launch"
+  },
+  {
+    "index": 11,
+    "text": "Bash does the interpreting. The shells can be friends!",
+    "speech": "Bash does the interpreting. The shells can be friends!",
+    "scene": "launch"
+  },
+  {
+    "index": 12,
+    "text": "My cozy setup? Fish for chatting with the terminal; bash for scripts that target bash.",
+    "speech": "My cozy setup? Fish for chatting with the terminal; bash for scripts that target bash.",
+    "scene": "choice"
+  },
+  {
+    "index": 13,
+    "text": "Writing bash doesn't automatically make it portable.",
+    "speech": "Writing bash doesn't automatically make it portable.",
+    "scene": "choice"
+  },
+  {
+    "index": 14,
+    "text": "Two shells. One terminal. Zero need for a custody battle.",
+    "speech": "Two shells. One terminal. Zero need for a custody battle.",
+    "scene": "end"
+  }
+]

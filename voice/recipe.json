@@ -1,0 +1,26 @@
+{
+  "voice_name": "Maple Nekokami - Mommy Voice v1",
+  "voice_creation_method": "ElevenLabs Voice Design; original adult fictional voice, no cloning or real-person imitation",
+  "design_prompt": "Original adult feminine voice for Maple Nekokami, a confident, affectionate mid-twenties catgirl. General American English. Warm lower-mid register: smooth, lightly velvety, clear, expressive, audible smile. Polished English-dub anime acting, natural conversation. Playful girlfriend warmth, gentle authority, mischievous teasing, nerd energy. Reassurance is relaxed and tender; teasing has a knowing lilt and dry comic timing. Technical infodumps brighten and accelerate with delighted emphasis, thoughtful pauses and amused chuckles. Composed, then thrilled by obscure Linux details, always the same person. Varied pitch/rhythm, crisp consonants, natural breaths. Occasional soft 'mrrp?' or playful 'nya', tiny pleased hums and curious upward lilts: sparse, mature, natural. Unmistakably adult; no squeaky caricature, childlike delivery, baby talk, constant breathiness, seductive whispers, heavy fry or flat announcer cadence. Clean studio sound. No real-person imitation or cloning.",
+  "saved_voice_description": "Original adult feminine Maple Nekokami: General American English, warm lower-mid, smooth and lightly velvety, clear with an audible smile. Natural English-dub anime delivery; affectionate confidence, gentle authority, teasing wit and delighted nerd energy. Tender reassurance, lively infodumps, varied rhythm, crisp diction and natural breaths. Sparse mature mrrp/nya, hums and curious lilts. Clean studio sound; no childlike delivery or real-person imitation/cloning. Voice Design, Voice 1.",
+  "design_settings": {
+    "seed_from_UI_share_recipe": 500301,
+    "loudness": 0.5,
+    "guidance_scale": 5,
+    "UI_loudness_slider": 75,
+    "UI_guidance_slider": 37.5,
+    "voice_design_model_id": null,
+    "prompt_enhancement": null,
+    "quality_setting": null,
+    "unrecorded_setting_note": "These design inputs were not preserved; do not assume current API defaults match the original."
+  },
+  "design_preview_text": "Hey, I'm Maple. Take a breath; we've got this. Oh, that is delightfully clever! Let me show you the little detail that makes it work.",
+  "portability": "Recreation recipe; not an external account import. Original design model and some design options were not recorded. Same-seed reproduction has not been verified on an independent account.",
+  "generation_settings": {
+    "model_display_name": "Eleven v4",
+    "model_identifier_observed": "eleven_v4",
+    "stability": 0.5,
+    "similarity": 0.75,
+    "model_availability_note": "Settings recorded for the included generation; current provider availability may differ."
+  }
+}

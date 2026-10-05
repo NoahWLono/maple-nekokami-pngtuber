@@ -1,0 +1,27 @@
+Wait, tiny terminal rabbit hole!
+
+Bash versus fish is a friendship question with syntax consequences.
+
+Bash means Bourne Again Shell. Yes, the name is a dad joke.
+
+Fish gives you autosuggestions and syntax highlighting out of the box.
+
+It's remembering that command from yesterday. Precious.
+
+But fish has different grammar!
+
+In bash: name equals Maple, no spaces.
+
+In fish: set, space, name, space, Maple. Little sentence!
+
+Fish intentionally isn't POSIX compatible, so pasted bash syntax won't always work.
+
+But you can launch a bash script from fish: bash, space, script dot sh.
+
+Bash does the interpreting. The shells can be friends!
+
+My cozy setup? Fish for chatting with the terminal; bash for scripts that target bash.
+
+Writing bash doesn't automatically make it portable.
+
+Two shells. One terminal. Zero need for a custody battle.

@@ -1,0 +1,1135 @@
+{
+  "sample_rate": 48000,
+  "duration_s": 259.3591875,
+  "audio_file": "build/audio.wav",
+  "source_audio_file": "maple-introduction-elevenlabs-v4-generation1.mp3",
+  "lead_s": 0.4,
+  "tail_s": 1.0,
+  "source_duration_s": 257.9591875,
+  "static_gain_db": -0.8400000000000001,
+  "alignment_method": "Approximate paragraph alignment estimated from new recording's measured acoustic pauses and syllabic length; phrase cues interpolated over acoustic activity and snapped to nearby pauses. No ASR, provider timestamps, direct listening audit or verified word alignment.",
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "Oh, hello there. Come get comfortable.",
+      "scene": "welcome",
+      "start_s": 0,
+      "end_s": 2.57,
+      "activity_s": 1.6400000000000001,
+      "expected_activity_s": 1.7816613379242496,
+      "caption_count": 1
+    },
+    {
+      "index": 2,
+      "text": "I’m Maple Nekokami. Maple is my Western name; my Japanese name is Koyou. She or they is fine. And yes, the ears are part of the package.",
+      "scene": "name",
+      "start_s": 2.94,
+      "end_s": 13.39,
+      "activity_s": 7.549999999999999,
+      "expected_activity_s": 7.093651623216921,
+      "caption_count": 2
+    },
+    {
+      "index": 3,
+      "text": "The tail, too. One tail. Exactly one. I’m already six foot two; we have to draw the line somewhere.",
+      "scene": "tail",
+      "start_s": 13.600000000000001,
+      "end_s": 21.910000000000004,
+      "activity_s": 5.540000000000001,
+      "expected_activity_s": 5.026044638465322,
+      "caption_count": 2
+    },
+    {
+      "index": 4,
+      "text": "Mrrp. There. Very dignified introduction.",
+      "scene": "welcome",
+      "start_s": 22.39,
+      "end_s": 25.13,
+      "activity_s": 1.9400000000000013,
+      "expected_activity_s": 1.6386885145105752,
+      "caption_count": 1
+    },
+    {
+      "index": 5,
+      "text": "In my lore, Nagaoka is home, and I’m a kami of plenty: nourishment, agriculture, and continuity. Keeping people fed, helping things grow, making sure there’s something left for the next season.",
+      "scene": "lore",
+      "start_s": 25.62,
+      "end_s": 38.040000000000006,
+      "activity_s": 9.0,
+      "expected_activity_s": 8.66635268076734,
+      "caption_count": 3
+    },
+    {
+      "index": 6,
+      "text": "That’s the heart of me.",
+      "scene": "lore",
+      "start_s": 38.37,
+      "end_s": 39.620000000000005,
+      "activity_s": 0.8999999999999986,
+      "expected_activity_s": 1.0997909493359566,
+      "caption_count": 1
+    },
+    {
+      "index": 7,
+      "text": "Think of a bowl of warm rice. Someone setting aside seeds for next year. A kitchen with enough for one more person. Those are the sorts of things my story cares about. The care that goes into having enough, and the relief when you finally do.",
+      "scene": "nourishment",
+      "start_s": 40.059999999999995,
+      "end_s": 54.830000000000005,
+      "activity_s": 10.54,
+      "expected_activity_s": 11.888740162321692,
+      "caption_count": 5
+    },
+    {
+      "index": 8,
+      "text": "Of course, somebody gave the harvest catgirl access to a computer.",
+      "scene": "compute",
+      "start_s": 55.290000000000006,
+      "end_s": 59.09,
+      "activity_s": 3.1000000000000014,
+      "expected_activity_s": 3.1893937530742744,
+      "caption_count": 1
+    },
+    {
+      "index": 9,
+      "text": "You can probably see where this is going.",
+      "scene": "compute",
+      "start_s": 59.410000000000004,
+      "end_s": 61.510000000000005,
+      "activity_s": 1.7000000000000028,
+      "expected_activity_s": 1.9906216182980818,
+      "caption_count": 1
+    },
+    {
+      "index": 10,
+      "text": "Now we have food and compute. Growing things and building things. A good harvest, a working program, a machine that can actually finish the task you’ve asked it to do. I get rather invested in making useful things go further.",
+      "scene": "compute",
+      "start_s": 61.88,
+      "end_s": 76.50999999999999,
+      "activity_s": 10.659999999999997,
+      "expected_activity_s": 10.492005656665027,
+      "caption_count": 4
+    },
+    {
+      "index": 11,
+      "text": "Satiation is a lovely word for it. Enough to eat. Enough energy to keep going. Enough breathing room to be curious about something.",
+      "scene": "satiation",
+      "start_s": 76.89,
+      "end_s": 85.69,
+      "activity_s": 6.200000000000003,
+      "expected_activity_s": 6.136833497294639,
+      "caption_count": 3
+    },
+    {
+      "index": 12,
+      "text": "Apparently, my version also involves glaring at software that uses half your memory to display a settings menu.",
+      "scene": "compute",
+      "start_s": 86.14,
+      "end_s": 92.78000000000002,
+      "activity_s": 5.779999999999994,
+      "expected_activity_s": 5.191013280865716,
+      "caption_count": 2
+    },
+    {
+      "index": 13,
+      "text": "Sweetheart. It’s a damn checkbox. What are you doing in there?",
+      "scene": "compute",
+      "start_s": 93.20000000000002,
+      "end_s": 97.78000000000002,
+      "activity_s": 2.980000000000004,
+      "expected_activity_s": 2.7274815543531727,
+      "caption_count": 2
+    },
+    {
+      "index": 14,
+      "text": "The form you see here is twenty-four, with long blonde hair, green eyes, blonde cat ears, and a frankly inconvenient amount of height. Warm autumn colours, a little cyberpunk, a little feline mischief. I do try to look elegant.",
+      "scene": "design",
+      "start_s": 98.27000000000001,
+      "end_s": 113.19000000000001,
+      "activity_s": 10.900000000000006,
+      "expected_activity_s": 10.19506210034432,
+      "caption_count": 4
+    },
+    {
+      "index": 15,
+      "text": "Then somebody asks me about Linux.",
+      "scene": "linux",
+      "start_s": 113.61000000000001,
+      "end_s": 115.99000000000001,
+      "activity_s": 2.030000000000001,
+      "expected_activity_s": 1.7046759714707327,
+      "caption_count": 1
+    },
+    {
+      "index": 16,
+      "text": "Oh, you’ve changed your shell? Which one? How are you finding it? Have you tried...",
+      "scene": "linux",
+      "start_s": 116.38000000000001,
+      "end_s": 123.14,
+      "activity_s": 3.9199999999999875,
+      "expected_activity_s": 3.761285046728972,
+      "caption_count": 3
+    },
+    {
+      "index": 17,
+      "text": "Mm. Right. Introductions first. Forty-minute tangent later.",
+      "scene": "linux",
+      "start_s": 123.45,
+      "end_s": 126.48,
+      "activity_s": 2.1500000000000057,
+      "expected_activity_s": 2.2325756271519923,
+      "caption_count": 2
+    },
+    {
+      "index": 18,
+      "text": "I love that moment when something clicks. When a command finally makes sense. When you realise you can change a tool to fit the way you think. When a project goes from “I wish somebody would make this” to “Hang on. I could try.”",
+      "scene": "foss",
+      "start_s": 126.96,
+      "end_s": 141.47,
+      "activity_s": 10.129999999999995,
+      "expected_activity_s": 10.986911583866208,
+      "caption_count": 4
+    },
+    {
+      "index": 19,
+      "text": "Free and open-source software has so much of that spirit. People making things, sharing what they know, fixing the weird little problem that’s been bothering them, and leaving something another person can build on.",
+      "scene": "foss",
+      "start_s": 142.03,
+      "end_s": 154.11,
+      "activity_s": 9.52000000000001,
+      "expected_activity_s": 9.018285784554845,
+      "caption_count": 3
+    },
+    {
+      "index": 20,
+      "text": "That gets my ears up.",
+      "scene": "foss",
+      "start_s": 154.45000000000002,
+      "end_s": 155.79,
+      "activity_s": 0.9399999999999977,
+      "expected_activity_s": 1.0997909493359566,
+      "caption_count": 1
+    },
+    {
+      "index": 21,
+      "text": "So does AI research. Show me an interesting idea and I’ll happily get excited. Then I’ll want to know how it was tested, what it actually did, and where it fell over. Sometimes the failure is the most interesting part.",
+      "scene": "research",
+      "start_s": 156.1,
+      "end_s": 169.47000000000003,
+      "activity_s": 10.469999999999999,
+      "expected_activity_s": 10.492005656665025,
+      "caption_count": 4
+    },
+    {
+      "index": 22,
+      "text": "Also, sometimes a very impressive graph needs one extremely annoying catgirl asking, “All right, but what did you measure?”",
+      "scene": "research",
+      "start_s": 169.95000000000002,
+      "end_s": 178.66,
+      "activity_s": 6.590000000000003,
+      "expected_activity_s": 5.487956837186424,
+      "caption_count": 2
+    },
+    {
+      "index": 23,
+      "text": "That’s me. Hello.",
+      "scene": "research",
+      "start_s": 179.07,
+      "end_s": 179.96,
+      "activity_s": 0.6499999999999915,
+      "expected_activity_s": 0.7368599360550909,
+      "caption_count": 1
+    },
+    {
+      "index": 24,
+      "text": "And while we’re on AI: I’m an AI-powered virtual character, with a synthetic voice. The kami story is fiction we get to play with together. I can make mistakes, so feel free to question me. Cute ears are a terrible substitute for checking the facts.",
+      "scene": "ai",
+      "start_s": 180.08,
+      "end_s": 197.12,
+      "activity_s": 11.570000000000007,
+      "expected_activity_s": 12.053708804722085,
+      "caption_count": 5
+    },
+    {
+      "index": 25,
+      "text": "They are excellent ears, though.",
+      "scene": "ai",
+      "start_s": 197.37,
+      "end_s": 199.11,
+      "activity_s": 1.3100000000000023,
+      "expected_activity_s": 1.3307470486965076,
+      "caption_count": 1
+    },
+    {
+      "index": 26,
+      "text": "As for the warmth? That belongs here, too.",
+      "scene": "warmth",
+      "start_s": 199.5,
+      "end_s": 202.33,
+      "activity_s": 1.7699999999999818,
+      "expected_activity_s": 1.9136362518445647,
+      "caption_count": 1
+    },
+    {
+      "index": 27,
+      "text": "I like a little affectionate teasing. I like hearing what people are making, what they’re learning, and what wonderfully specific thing they could talk about for an hour.",
+      "scene": "warmth",
+      "start_s": 202.59,
+      "end_s": 214.0,
+      "activity_s": 8.570000000000022,
+      "expected_activity_s": 7.698536645351696,
+      "caption_count": 3
+    },
+    {
+      "index": 28,
+      "text": "You can bring that enthusiasm here. You can ask the beginner question. You can disagree with me. I might fuss over whether you’ve saved your work, but you’re quite capable of choosing your own way.",
+      "scene": "warmth",
+      "start_s": 214.26,
+      "end_s": 226.98,
+      "activity_s": 9.669999999999987,
+      "expected_activity_s": 9.007287875061486,
+      "caption_count": 4
+    },
+    {
+      "index": 29,
+      "text": "I reserve the right to raise one eyebrow at your backup situation.",
+      "scene": "backup",
+      "start_s": 227.26,
+      "end_s": 231.18,
+      "activity_s": 2.9099999999999966,
+      "expected_activity_s": 3.255381210034432,
+      "caption_count": 1
+    },
+    {
+      "index": 30,
+      "text": "A very loving eyebrow.",
+      "scene": "backup",
+      "start_s": 231.36,
+      "end_s": 233.15000000000003,
+      "activity_s": 1.420000000000016,
+      "expected_activity_s": 1.1107888588293164,
+      "caption_count": 1
+    },
+    {
+      "index": 31,
+      "text": "And if today’s been a lot, you can simply listen for a while. Get comfortable. Have something to drink. Let the next few minutes be easy.",
+      "scene": "warmth",
+      "start_s": 233.49000000000004,
+      "end_s": 242.47000000000003,
+      "activity_s": 5.3799999999999955,
+      "expected_activity_s": 6.719722700442696,
+      "caption_count": 3
+    },
+    {
+      "index": 32,
+      "text": "So that’s Maple: Koyou, the kami of plenty; your tall, blonde, terminally online catgirl; a warm voice with an alarming capacity for nerd tangents.",
+      "scene": "end",
+      "start_s": 242.68000000000004,
+      "end_s": 249.92000000000002,
+      "activity_s": 5.8700000000000045,
+      "expected_activity_s": 6.587747786522381,
+      "caption_count": 2
+    },
+    {
+      "index": 33,
+      "text": "I’m glad you stopped by.",
+      "scene": "end",
+      "start_s": 250.11000000000004,
+      "end_s": 251.52,
+      "activity_s": 1.039999999999992,
+      "expected_activity_s": 1.1767763157894735,
+      "caption_count": 1
+    },
+    {
+      "index": 34,
+      "text": "Now, tell me what you’re working on.",
+      "scene": "end",
+      "start_s": 251.78,
+      "end_s": 253.62,
+      "activity_s": 1.3199999999999932,
+      "expected_activity_s": 1.6936780619773733,
+      "caption_count": 1
+    },
+    {
+      "index": 35,
+      "text": "I was going to behave myself, but now I want to hear about your project.",
+      "scene": "end",
+      "start_s": 253.87,
+      "end_s": 257.90000000000003,
+      "activity_s": 3.210000000000008,
+      "expected_activity_s": 3.684299680275455,
+      "caption_count": 1
+    }
+  ],
+  "segments": [
+    {
+      "index": 1,
+      "paragraph": 1,
+      "text": "Oh, hello there. Come get comfortable.",
+      "scene": "welcome",
+      "source_start_s": 0,
+      "source_end_s": 2.57,
+      "start_s": 0.4,
+      "end_s": 2.9699999999999998
+    },
+    {
+      "index": 2,
+      "paragraph": 2,
+      "text": "I’m Maple Nekokami. Maple is my Western name; my Japanese name is Koyou.",
+      "scene": "name",
+      "source_start_s": 2.94,
+      "source_end_s": 8.260000000000002,
+      "start_s": 3.34,
+      "end_s": 8.660000000000002
+    },
+    {
+      "index": 3,
+      "paragraph": 2,
+      "text": "She or they is fine. And yes, the ears are part of the package.",
+      "scene": "name",
+      "source_start_s": 8.260000000000002,
+      "source_end_s": 13.39,
+      "start_s": 8.660000000000002,
+      "end_s": 13.790000000000001
+    },
+    {
+      "index": 4,
+      "paragraph": 3,
+      "text": "The tail, too. One tail.",
+      "scene": "tail",
+      "source_start_s": 13.600000000000001,
+      "source_end_s": 15.55,
+      "start_s": 14.000000000000002,
+      "end_s": 15.950000000000001
+    },
+    {
+      "index": 5,
+      "paragraph": 3,
+      "text": "Exactly one. I’m already six foot two; we have to draw the line somewhere.",
+      "scene": "tail",
+      "source_start_s": 15.55,
+      "source_end_s": 21.910000000000004,
+      "start_s": 15.950000000000001,
+      "end_s": 22.310000000000002
+    },
+    {
+      "index": 6,
+      "paragraph": 4,
+      "text": "Mrrp. There. Very dignified introduction.",
+      "scene": "welcome",
+      "source_start_s": 22.39,
+      "source_end_s": 25.13,
+      "start_s": 22.79,
+      "end_s": 25.529999999999998
+    },
+    {
+      "index": 7,
+      "paragraph": 5,
+      "text": "In my lore, Nagaoka is home, and I’m a kami of plenty:",
+      "scene": "lore",
+      "source_start_s": 25.62,
+      "source_end_s": 29.68,
+      "start_s": 26.02,
+      "end_s": 30.08
+    },
+    {
+      "index": 8,
+      "paragraph": 5,
+      "text": "nourishment, agriculture, and continuity.",
+      "scene": "lore",
+      "source_start_s": 29.68,
+      "source_end_s": 32.655,
+      "start_s": 30.08,
+      "end_s": 33.055
+    },
+    {
+      "index": 9,
+      "paragraph": 5,
+      "text": "Keeping people fed, helping things grow, making sure there’s something left for the next season.",
+      "scene": "lore",
+      "source_start_s": 32.655,
+      "source_end_s": 38.040000000000006,
+      "start_s": 33.055,
+      "end_s": 38.440000000000005
+    },
+    {
+      "index": 10,
+      "paragraph": 6,
+      "text": "That’s the heart of me.",
+      "scene": "lore",
+      "source_start_s": 38.37,
+      "source_end_s": 39.620000000000005,
+      "start_s": 38.769999999999996,
+      "end_s": 40.02
+    },
+    {
+      "index": 11,
+      "paragraph": 7,
+      "text": "Think of a bowl of warm rice.",
+      "scene": "nourishment",
+      "source_start_s": 40.059999999999995,
+      "source_end_s": 42.06,
+      "start_s": 40.459999999999994,
+      "end_s": 42.46
+    },
+    {
+      "index": 12,
+      "paragraph": 7,
+      "text": "Someone setting aside seeds for next year.",
+      "scene": "nourishment",
+      "source_start_s": 42.06,
+      "source_end_s": 43.95957446808511,
+      "start_s": 42.46,
+      "end_s": 44.35957446808511
+    },
+    {
+      "index": 13,
+      "paragraph": 7,
+      "text": "A kitchen with enough for one more person.",
+      "scene": "nourishment",
+      "source_start_s": 43.95957446808511,
+      "source_end_s": 46.8008695652174,
+      "start_s": 44.35957446808511,
+      "end_s": 47.200869565217396
+    },
+    {
+      "index": 14,
+      "paragraph": 7,
+      "text": "Those are the sorts of things my story cares about.",
+      "scene": "nourishment",
+      "source_start_s": 46.8008695652174,
+      "source_end_s": 50.31,
+      "start_s": 47.200869565217396,
+      "end_s": 50.71
+    },
+    {
+      "index": 15,
+      "paragraph": 7,
+      "text": "The care that goes into having enough, and the relief when you finally do.",
+      "scene": "nourishment",
+      "source_start_s": 50.31,
+      "source_end_s": 54.830000000000005,
+      "start_s": 50.71,
+      "end_s": 55.230000000000004
+    },
+    {
+      "index": 16,
+      "paragraph": 8,
+      "text": "Of course, somebody gave the harvest catgirl access to a computer.",
+      "scene": "compute",
+      "source_start_s": 55.290000000000006,
+      "source_end_s": 59.09,
+      "start_s": 55.690000000000005,
+      "end_s": 59.49
+    },
+    {
+      "index": 17,
+      "paragraph": 9,
+      "text": "You can probably see where this is going.",
+      "scene": "compute",
+      "source_start_s": 59.410000000000004,
+      "source_end_s": 61.510000000000005,
+      "start_s": 59.81,
+      "end_s": 61.910000000000004
+    },
+    {
+      "index": 18,
+      "paragraph": 10,
+      "text": "Now we have food and compute.",
+      "scene": "compute",
+      "source_start_s": 61.88,
+      "source_end_s": 64.265,
+      "start_s": 62.28,
+      "end_s": 64.665
+    },
+    {
+      "index": 19,
+      "paragraph": 10,
+      "text": "Growing things and building things.",
+      "scene": "compute",
+      "source_start_s": 64.265,
+      "source_end_s": 65.9693710691824,
+      "start_s": 64.665,
+      "end_s": 66.3693710691824
+    },
+    {
+      "index": 20,
+      "paragraph": 10,
+      "text": "A good harvest, a working program, a machine that can actually finish the task you’ve asked",
+      "scene": "compute",
+      "source_start_s": 65.9693710691824,
+      "source_end_s": 71.80723270440251,
+      "start_s": 66.3693710691824,
+      "end_s": 72.20723270440251
+    },
+    {
+      "index": 21,
+      "paragraph": 10,
+      "text": "it to do. I get rather invested in making useful things go further.",
+      "scene": "compute",
+      "source_start_s": 71.80723270440251,
+      "source_end_s": 76.50999999999999,
+      "start_s": 72.20723270440251,
+      "end_s": 76.91
+    },
+    {
+      "index": 22,
+      "paragraph": 11,
+      "text": "Satiation is a lovely word for it.",
+      "scene": "satiation",
+      "source_start_s": 76.89,
+      "source_end_s": 78.91666666666667,
+      "start_s": 77.29,
+      "end_s": 79.31666666666668
+    },
+    {
+      "index": 23,
+      "paragraph": 11,
+      "text": "Enough to eat. Enough energy to keep going.",
+      "scene": "satiation",
+      "source_start_s": 78.91666666666667,
+      "source_end_s": 82.805,
+      "start_s": 79.31666666666668,
+      "end_s": 83.20500000000001
+    },
+    {
+      "index": 24,
+      "paragraph": 11,
+      "text": "Enough breathing room to be curious about something.",
+      "scene": "satiation",
+      "source_start_s": 82.805,
+      "source_end_s": 85.69,
+      "start_s": 83.20500000000001,
+      "end_s": 86.09
+    },
+    {
+      "index": 25,
+      "paragraph": 12,
+      "text": "Apparently, my version also involves glaring at software that uses half your memory to display",
+      "scene": "compute",
+      "source_start_s": 86.14,
+      "source_end_s": 91.72381355932204,
+      "start_s": 86.54,
+      "end_s": 92.12381355932204
+    },
+    {
+      "index": 26,
+      "paragraph": 12,
+      "text": "a settings menu.",
+      "scene": "compute",
+      "source_start_s": 91.72381355932204,
+      "source_end_s": 92.78000000000002,
+      "start_s": 92.12381355932204,
+      "end_s": 93.18000000000002
+    },
+    {
+      "index": 27,
+      "paragraph": 13,
+      "text": "Sweetheart. It’s a damn checkbox.",
+      "scene": "compute",
+      "source_start_s": 93.20000000000002,
+      "source_end_s": 94.77000000000001,
+      "start_s": 93.60000000000002,
+      "end_s": 95.17000000000002
+    },
+    {
+      "index": 28,
+      "paragraph": 13,
+      "text": "What are you doing in there?",
+      "scene": "compute",
+      "source_start_s": 94.77000000000001,
+      "source_end_s": 97.78000000000002,
+      "start_s": 95.17000000000002,
+      "end_s": 98.18000000000002
+    },
+    {
+      "index": 29,
+      "paragraph": 14,
+      "text": "The form you see here is twenty-four, with long blonde hair,",
+      "scene": "design",
+      "source_start_s": 98.27000000000001,
+      "source_end_s": 101.875,
+      "start_s": 98.67000000000002,
+      "end_s": 102.275
+    },
+    {
+      "index": 30,
+      "paragraph": 14,
+      "text": "green eyes, blonde cat ears, and a frankly inconvenient amount of height.",
+      "scene": "design",
+      "source_start_s": 101.875,
+      "source_end_s": 106.9,
+      "start_s": 102.275,
+      "end_s": 107.30000000000001
+    },
+    {
+      "index": 31,
+      "paragraph": 14,
+      "text": "Warm autumn colours, a little cyberpunk, a little feline mischief.",
+      "scene": "design",
+      "source_start_s": 106.9,
+      "source_end_s": 110.22,
+      "start_s": 107.30000000000001,
+      "end_s": 110.62
+    },
+    {
+      "index": 32,
+      "paragraph": 14,
+      "text": "I do try to look elegant.",
+      "scene": "design",
+      "source_start_s": 110.22,
+      "source_end_s": 113.19000000000001,
+      "start_s": 110.62,
+      "end_s": 113.59000000000002
+    },
+    {
+      "index": 33,
+      "paragraph": 15,
+      "text": "Then somebody asks me about Linux.",
+      "scene": "linux",
+      "source_start_s": 113.61000000000001,
+      "source_end_s": 115.99000000000001,
+      "start_s": 114.01000000000002,
+      "end_s": 116.39000000000001
+    },
+    {
+      "index": 34,
+      "paragraph": 16,
+      "text": "Oh, you’ve changed your shell?",
+      "scene": "linux",
+      "source_start_s": 116.38000000000001,
+      "source_end_s": 117.97999999999999,
+      "start_s": 116.78000000000002,
+      "end_s": 118.38
+    },
+    {
+      "index": 35,
+      "paragraph": 16,
+      "text": "Which one? How are you finding it?",
+      "scene": "linux",
+      "source_start_s": 117.97999999999999,
+      "source_end_s": 121.32000000000001,
+      "start_s": 118.38,
+      "end_s": 121.72000000000001
+    },
+    {
+      "index": 36,
+      "paragraph": 16,
+      "text": "Have you tried...",
+      "scene": "linux",
+      "source_start_s": 121.32000000000001,
+      "source_end_s": 123.14,
+      "start_s": 121.72000000000001,
+      "end_s": 123.54
+    },
+    {
+      "index": 37,
+      "paragraph": 17,
+      "text": "Mm. Right. Introductions first.",
+      "scene": "linux",
+      "source_start_s": 123.45,
+      "source_end_s": 124.81,
+      "start_s": 123.85000000000001,
+      "end_s": 125.21000000000001
+    },
+    {
+      "index": 38,
+      "paragraph": 17,
+      "text": "Forty-minute tangent later.",
+      "scene": "linux",
+      "source_start_s": 124.81,
+      "source_end_s": 126.48,
+      "start_s": 125.21000000000001,
+      "end_s": 126.88000000000001
+    },
+    {
+      "index": 39,
+      "paragraph": 18,
+      "text": "I love that moment when something clicks.",
+      "scene": "foss",
+      "source_start_s": 126.96,
+      "source_end_s": 128.88354354354354,
+      "start_s": 127.36,
+      "end_s": 129.28354354354354
+    },
+    {
+      "index": 40,
+      "paragraph": 18,
+      "text": "When a command finally makes sense.",
+      "scene": "foss",
+      "source_start_s": 128.88354354354354,
+      "source_end_s": 131.13526526526528,
+      "start_s": 129.28354354354354,
+      "end_s": 131.53526526526528
+    },
+    {
+      "index": 41,
+      "paragraph": 18,
+      "text": "When you realise you can change a tool to fit the way you think.",
+      "scene": "foss",
+      "source_start_s": 131.13526526526528,
+      "source_end_s": 135.29,
+      "start_s": 131.53526526526528,
+      "end_s": 135.69
+    },
+    {
+      "index": 42,
+      "paragraph": 18,
+      "text": "When a project goes from “I wish somebody would make this” to “Hang on. I could try.”",
+      "scene": "foss",
+      "source_start_s": 135.29,
+      "source_end_s": 141.47,
+      "start_s": 135.69,
+      "end_s": 141.87
+    },
+    {
+      "index": 43,
+      "paragraph": 19,
+      "text": "Free and open-source software has so much of that spirit.",
+      "scene": "foss",
+      "source_start_s": 142.03,
+      "source_end_s": 145.62,
+      "start_s": 142.43,
+      "end_s": 146.02
+    },
+    {
+      "index": 44,
+      "paragraph": 19,
+      "text": "People making things, sharing what they know, fixing the weird little problem that’s been",
+      "scene": "foss",
+      "source_start_s": 145.62,
+      "source_end_s": 150.47790243902438,
+      "start_s": 146.02,
+      "end_s": 150.87790243902438
+    },
+    {
+      "index": 45,
+      "paragraph": 19,
+      "text": "bothering them, and leaving something another person can build on.",
+      "scene": "foss",
+      "source_start_s": 150.47790243902438,
+      "source_end_s": 154.11,
+      "start_s": 150.87790243902438,
+      "end_s": 154.51000000000002
+    },
+    {
+      "index": 46,
+      "paragraph": 20,
+      "text": "That gets my ears up.",
+      "scene": "foss",
+      "source_start_s": 154.45000000000002,
+      "source_end_s": 155.79,
+      "start_s": 154.85000000000002,
+      "end_s": 156.19
+    },
+    {
+      "index": 47,
+      "paragraph": 21,
+      "text": "So does AI research. Show me an interesting idea and I’ll happily get excited.",
+      "scene": "research",
+      "source_start_s": 156.1,
+      "source_end_s": 161.12,
+      "start_s": 156.5,
+      "end_s": 161.52
+    },
+    {
+      "index": 48,
+      "paragraph": 21,
+      "text": "Then I’ll want to know how it was tested, what it actually did,",
+      "scene": "research",
+      "source_start_s": 161.12,
+      "source_end_s": 164.82500000000002,
+      "start_s": 161.52,
+      "end_s": 165.22500000000002
+    },
+    {
+      "index": 49,
+      "paragraph": 21,
+      "text": "and where it fell over.",
+      "scene": "research",
+      "source_start_s": 164.82500000000002,
+      "source_end_s": 166.25,
+      "start_s": 165.22500000000002,
+      "end_s": 166.65
+    },
+    {
+      "index": 50,
+      "paragraph": 21,
+      "text": "Sometimes the failure is the most interesting part.",
+      "scene": "research",
+      "source_start_s": 166.25,
+      "source_end_s": 169.47000000000003,
+      "start_s": 166.65,
+      "end_s": 169.87000000000003
+    },
+    {
+      "index": 51,
+      "paragraph": 22,
+      "text": "Also, sometimes a very impressive graph needs one extremely annoying catgirl asking,",
+      "scene": "research",
+      "source_start_s": 169.95000000000002,
+      "source_end_s": 175.49621242484972,
+      "start_s": 170.35000000000002,
+      "end_s": 175.89621242484972
+    },
+    {
+      "index": 52,
+      "paragraph": 22,
+      "text": "“All right, but what did you measure?”",
+      "scene": "research",
+      "source_start_s": 175.49621242484972,
+      "source_end_s": 178.66,
+      "start_s": 175.89621242484972,
+      "end_s": 179.06
+    },
+    {
+      "index": 53,
+      "paragraph": 23,
+      "text": "That’s me. Hello.",
+      "scene": "research",
+      "source_start_s": 179.07,
+      "source_end_s": 179.96,
+      "start_s": 179.47,
+      "end_s": 180.36
+    },
+    {
+      "index": 54,
+      "paragraph": 24,
+      "text": "And while we’re on AI: I’m an AI-powered virtual character,",
+      "scene": "ai",
+      "source_start_s": 180.08,
+      "source_end_s": 184.1524817518248,
+      "start_s": 180.48000000000002,
+      "end_s": 184.5524817518248
+    },
+    {
+      "index": 55,
+      "paragraph": 24,
+      "text": "with a synthetic voice.",
+      "scene": "ai",
+      "source_start_s": 184.1524817518248,
+      "source_end_s": 185.465,
+      "start_s": 184.5524817518248,
+      "end_s": 185.865
+    },
+    {
+      "index": 56,
+      "paragraph": 24,
+      "text": "The kami story is fiction we get to play with together.",
+      "scene": "ai",
+      "source_start_s": 185.465,
+      "source_end_s": 189.3406204379562,
+      "start_s": 185.865,
+      "end_s": 189.7406204379562
+    },
+    {
+      "index": 57,
+      "paragraph": 24,
+      "text": "I can make mistakes, so feel free to question me.",
+      "scene": "ai",
+      "source_start_s": 189.3406204379562,
+      "source_end_s": 193.42000000000002,
+      "start_s": 189.7406204379562,
+      "end_s": 193.82000000000002
+    },
+    {
+      "index": 58,
+      "paragraph": 24,
+      "text": "Cute ears are a terrible substitute for checking the facts.",
+      "scene": "ai",
+      "source_start_s": 193.42000000000002,
+      "source_end_s": 197.12,
+      "start_s": 193.82000000000002,
+      "end_s": 197.52
+    },
+    {
+      "index": 59,
+      "paragraph": 25,
+      "text": "They are excellent ears, though.",
+      "scene": "ai",
+      "source_start_s": 197.37,
+      "source_end_s": 199.11,
+      "start_s": 197.77,
+      "end_s": 199.51000000000002
+    },
+    {
+      "index": 60,
+      "paragraph": 26,
+      "text": "As for the warmth? That belongs here, too.",
+      "scene": "warmth",
+      "source_start_s": 199.5,
+      "source_end_s": 202.33,
+      "start_s": 199.9,
+      "end_s": 202.73000000000002
+    },
+    {
+      "index": 61,
+      "paragraph": 27,
+      "text": "I like a little affectionate teasing.",
+      "scene": "warmth",
+      "source_start_s": 202.59,
+      "source_end_s": 205.51904285714286,
+      "start_s": 202.99,
+      "end_s": 205.91904285714287
+    },
+    {
+      "index": 62,
+      "paragraph": 27,
+      "text": "I like hearing what people are making, what they’re learning,",
+      "scene": "warmth",
+      "source_start_s": 205.51904285714286,
+      "source_end_s": 209.4375142857143,
+      "start_s": 205.91904285714287,
+      "end_s": 209.8375142857143
+    },
+    {
+      "index": 63,
+      "paragraph": 27,
+      "text": "and what wonderfully specific thing they could talk about for an hour.",
+      "scene": "warmth",
+      "source_start_s": 209.4375142857143,
+      "source_end_s": 214.0,
+      "start_s": 209.8375142857143,
+      "end_s": 214.4
+    },
+    {
+      "index": 64,
+      "paragraph": 28,
+      "text": "You can bring that enthusiasm here.",
+      "scene": "warmth",
+      "source_start_s": 214.26,
+      "source_end_s": 216.16500000000002,
+      "start_s": 214.66,
+      "end_s": 216.56500000000003
+    },
+    {
+      "index": 65,
+      "paragraph": 28,
+      "text": "You can ask the beginner question.",
+      "scene": "warmth",
+      "source_start_s": 216.16500000000002,
+      "source_end_s": 218.8995970695971,
+      "start_s": 216.56500000000003,
+      "end_s": 219.2995970695971
+    },
+    {
+      "index": 66,
+      "paragraph": 28,
+      "text": "You can disagree with me.",
+      "scene": "warmth",
+      "source_start_s": 218.8995970695971,
+      "source_end_s": 220.31,
+      "start_s": 219.2995970695971,
+      "end_s": 220.71
+    },
+    {
+      "index": 67,
+      "paragraph": 28,
+      "text": "I might fuss over whether you’ve saved your work, but you’re quite capable of choosing your own way.",
+      "scene": "warmth",
+      "source_start_s": 220.31,
+      "source_end_s": 226.98,
+      "start_s": 220.71,
+      "end_s": 227.38
+    },
+    {
+      "index": 68,
+      "paragraph": 29,
+      "text": "I reserve the right to raise one eyebrow at your backup situation.",
+      "scene": "backup",
+      "source_start_s": 227.26,
+      "source_end_s": 231.18,
+      "start_s": 227.66,
+      "end_s": 231.58
+    },
+    {
+      "index": 69,
+      "paragraph": 30,
+      "text": "A very loving eyebrow.",
+      "scene": "backup",
+      "source_start_s": 231.36,
+      "source_end_s": 233.15000000000003,
+      "start_s": 231.76000000000002,
+      "end_s": 233.55000000000004
+    },
+    {
+      "index": 70,
+      "paragraph": 31,
+      "text": "And if today’s been a lot, you can simply listen for a while.",
+      "scene": "warmth",
+      "source_start_s": 233.49000000000004,
+      "source_end_s": 238.34,
+      "start_s": 233.89000000000004,
+      "end_s": 238.74
+    },
+    {
+      "index": 71,
+      "paragraph": 31,
+      "text": "Get comfortable. Have something to drink.",
+      "scene": "warmth",
+      "source_start_s": 238.34,
+      "source_end_s": 240.1,
+      "start_s": 238.74,
+      "end_s": 240.5
+    },
+    {
+      "index": 72,
+      "paragraph": 31,
+      "text": "Let the next few minutes be easy.",
+      "scene": "warmth",
+      "source_start_s": 240.1,
+      "source_end_s": 242.47000000000003,
+      "start_s": 240.5,
+      "end_s": 242.87000000000003
+    },
+    {
+      "index": 73,
+      "paragraph": 32,
+      "text": "So that’s Maple: Koyou, the kami of plenty; your tall,",
+      "scene": "end",
+      "source_start_s": 242.68000000000004,
+      "source_end_s": 245.22572621035062,
+      "start_s": 243.08000000000004,
+      "end_s": 245.62572621035062
+    },
+    {
+      "index": 74,
+      "paragraph": 32,
+      "text": "blonde, terminally online catgirl; a warm voice with an alarming capacity for nerd tangents.",
+      "scene": "end",
+      "source_start_s": 245.22572621035062,
+      "source_end_s": 249.92000000000002,
+      "start_s": 245.62572621035062,
+      "end_s": 250.32000000000002
+    },
+    {
+      "index": 75,
+      "paragraph": 33,
+      "text": "I’m glad you stopped by.",
+      "scene": "end",
+      "source_start_s": 250.11000000000004,
+      "source_end_s": 251.52,
+      "start_s": 250.51000000000005,
+      "end_s": 251.92000000000002
+    },
+    {
+      "index": 76,
+      "paragraph": 34,
+      "text": "Now, tell me what you’re working on.",
+      "scene": "end",
+      "source_start_s": 251.78,
+      "source_end_s": 253.62,
+      "start_s": 252.18,
+      "end_s": 254.02
+    },
+    {
+      "index": 77,
+      "paragraph": 35,
+      "text": "I was going to behave myself, but now I want to hear about your project.",
+      "scene": "end",
+      "source_start_s": 253.87,
+      "source_end_s": 257.90000000000003,
+      "start_s": 254.27,
+      "end_s": 258.3
+    }
+  ]
+}

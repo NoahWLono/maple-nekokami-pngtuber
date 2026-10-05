@@ -1,0 +1,241 @@
+{
+  "format": 1,
+  "scope": "Explicit public PNGtuber release files; excludes this manifest and generated build output.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 280,
+      "sha256": "166459a066508c6fddbf33dac65067b22ba854aa44ae564d46254d63bf63cc65"
+    },
+    {
+      "path": "LICENSE-ARTWORK.md",
+      "bytes": 2006,
+      "sha256": "a196e250b13c070ec147b2e471ac10f176f537aa8f70104a458a81af146561a2"
+    },
+    {
+      "path": "LICENSE-CODE",
+      "bytes": 1066,
+      "sha256": "fe0d699c8b5d17efd943c18206c6f719656796fc01e23f1e71f8e600fab23c6b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6117,
+      "sha256": "80e6eb37d7ab688a04cf22f379ad50c141a98ec2be0fb81d9b56fd6172637aa0"
+    },
+    {
+      "path": "RIGHTS.md",
+      "bytes": 3742,
+      "sha256": "95693c2aaf13e875026ac7adcb6e6e55478877b9376e791f200e2bc0c7cc54e0"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1991,
+      "sha256": "fe95f71dca928b2a45a0760190ac725ff0589fe8f1b486d8b871bfcc84906c05"
+    },
+    {
+      "path": "assets/aligned/eye_left-edit-mask.png",
+      "bytes": 723,
+      "sha256": "ea95dec4ff062988c80bf0eed7a9ef85686d33248ebccf686b9cc06aa3f8db94"
+    },
+    {
+      "path": "assets/aligned/eye_right-edit-mask.png",
+      "bytes": 725,
+      "sha256": "db12cc0500a91a89d9e042abd42d2e6e995be39de50b16fd2ed8d299ba196338"
+    },
+    {
+      "path": "assets/aligned/maple-blink.png",
+      "bytes": 400453,
+      "sha256": "6e31a2dd95ad83c2e1771fa8e908fea7a37a87d17c5d988fca43836dd4be515f"
+    },
+    {
+      "path": "assets/aligned/maple-idle.png",
+      "bytes": 401299,
+      "sha256": "0c4b6eb39cc261bd6f1fa84328c91aee84259579660d50a23e60c90458411b23"
+    },
+    {
+      "path": "assets/aligned/maple-speaking-blink.png",
+      "bytes": 400253,
+      "sha256": "4f047c3438b449da72a10bc4317b83381aab5a4a9375e9f8d1084eeabbd7af86"
+    },
+    {
+      "path": "assets/aligned/maple-speaking.png",
+      "bytes": 401558,
+      "sha256": "b5b28eda783e4127106e948723f9cbf6c506763016d89b36309eee9aa9a97939"
+    },
+    {
+      "path": "assets/aligned/mouth-edit-mask.png",
+      "bytes": 614,
+      "sha256": "9ff005cf72d22933e18e9fef07448b8e4816a46135ad07283b9a570a52286ebc"
+    },
+    {
+      "path": "assets/maple-original-unchanged.png",
+      "bytes": 398213,
+      "sha256": "bc25435e54e6202f7aadf2a8b00dcfe165070b55fbf3d0f910b03b51ebd6b789"
+    },
+    {
+      "path": "assets/references/maple-blink-redraw-proposal.png",
+      "bytes": 1208503,
+      "sha256": "bdf6cd0e51f670fd1da4df27d7ea87f691a705354ac1832ba12d12713728b9f4"
+    },
+    {
+      "path": "assets/references/maple-talking-redraw-proposal.png",
+      "bytes": 1204735,
+      "sha256": "c92276c8ba577f1b5cd79c1b784da76c5010376da2a984117233a8a5e9078ffb"
+    },
+    {
+      "path": "docs/ARTWORK.md",
+      "bytes": 1610,
+      "sha256": "61c57bee22b8de3d1863bd4105c9d4edcb182cb79fb67ab0efee98dc7ecb357e"
+    },
+    {
+      "path": "docs/NATIVE.md",
+      "bytes": 2051,
+      "sha256": "d5fc2a8ebc26683ee3a26e5dda40ce998f512eadd359d4b6a62ed8ff2f9ed60b"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 2848,
+      "sha256": "0e7ffa5324d4b0eb46dda04361d6c729ccf9f84e2bd4525a140a36bd7cb8b63e"
+    },
+    {
+      "path": "examples/bash-fish/README.md",
+      "bytes": 960,
+      "sha256": "1123dc6522fc18ea205be3fae81b716c68e0718f63cd137bf31787647a4dfe3b"
+    },
+    {
+      "path": "examples/bash-fish/captions.srt",
+      "bytes": 1292,
+      "sha256": "8e9dc9f9022c83168cd1624509fb63d0b6744edc5876ac65432e0eaeaed51425"
+    },
+    {
+      "path": "examples/bash-fish/maple-bash-fish-elevenlabs-v4-generation1.mp3",
+      "bytes": 978662,
+      "sha256": "eca0bed3540a747988ec29317cb242d1e56e53e4581b8c627083e537405442b7"
+    },
+    {
+      "path": "examples/bash-fish/maple-bash-vs-fish-elevenlabs-voice1.mp4",
+      "bytes": 2314867,
+      "sha256": "5455c80565482fa9e32f7ebb01ed97754ae1aa1471fbd0739c2aab6e4a16c24d"
+    },
+    {
+      "path": "examples/bash-fish/script.json",
+      "bytes": 2757,
+      "sha256": "7ff74d9b8c10b5f1d4c986da3807310d8320ed6d66bb97195ffb7fff0a71ee62"
+    },
+    {
+      "path": "examples/bash-fish/script.txt",
+      "bytes": 839,
+      "sha256": "5cb0acdfbde3b7a4991ae5a6e52ef10cb1af8b6347da5a7eccac596edc19b418"
+    },
+    {
+      "path": "examples/bash-fish/timing.json",
+      "bytes": 5315,
+      "sha256": "15115b3db6cfea3f8a18ca108f1b52ce9c497939d88fb76116512b8ab37bd51d"
+    },
+    {
+      "path": "examples/bash-fish/tools/render_clip.py",
+      "bytes": 7270,
+      "sha256": "f1b65d25726392916c47eb9fcf9ef183dbc5a77bc8f3115a9b55b4e1ecb96c60"
+    },
+    {
+      "path": "examples/four-state-preview.mp4",
+      "bytes": 185844,
+      "sha256": "4436ea7ce984161b0906e3c8ee06416d8176572e65e740e5abc18bb998c097eb"
+    },
+    {
+      "path": "examples/lore-intro/README.md",
+      "bytes": 982,
+      "sha256": "543f9e191103336b8b51f0775d681460823904beec21e34ff451ceb2f5d0d2bc"
+    },
+    {
+      "path": "examples/lore-intro/captions.srt",
+      "bytes": 6523,
+      "sha256": "4a129f98baa24c915de0cc4a2ef2922e21fa005b9de0a2bb9031d737ba347f1a"
+    },
+    {
+      "path": "examples/lore-intro/maple-introduction-elevenlabs-v4-generation1.mp3",
+      "bytes": 4144284,
+      "sha256": "5c4ce0f70c4b6a0777dffa01d3d1bf29ca731ccdf8e3baa0455e0896b0c2403e"
+    },
+    {
+      "path": "examples/lore-intro/maple-lore-introduction-elevenlabs-voice1.mp4",
+      "bytes": 7593260,
+      "sha256": "ceab1259e7f0aaf7f781a6169e11086352b9d8aed45a6d7ffbd163c0846039b7"
+    },
+    {
+      "path": "examples/lore-intro/script.json",
+      "bytes": 6098,
+      "sha256": "1abee4fe9f86ad4b9eb0806d0f51e652bbad93e9c35c46c0c909318f2137886a"
+    },
+    {
+      "path": "examples/lore-intro/script.txt",
+      "bytes": 3952,
+      "sha256": "3a306bb5b7c12f0c8f7f0bb8b0f83bfc8e6a3328ded457f86f0a2f7bc9d1d6d3"
+    },
+    {
+      "path": "examples/lore-intro/timing.json",
+      "bytes": 34574,
+      "sha256": "ef6a5dd2f3059d9bf730cb80d851affe988c57d750305d285e4cc41bad8bc6bb"
+    },
+    {
+      "path": "examples/lore-intro/tools/layout.py",
+      "bytes": 5200,
+      "sha256": "56859c17cc77e62e8eed79dd48986fd2370cdc318a81507667a159f666259b48"
+    },
+    {
+      "path": "examples/lore-intro/tools/render_intro.py",
+      "bytes": 5700,
+      "sha256": "37b82269b41e9d45657528f1bc015d4e5d452ff74e176cfab94b660b5e700b04"
+    },
+    {
+      "path": "project/maple-pngtuber.veado",
+      "bytes": 6554633,
+      "sha256": "df2abe29ee8f617403361daecb798edb632d9bad12603759384ea2c2c4d1e23a"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 155,
+      "sha256": "95a47310f94644e3e1f16ac92f6c57f9ef0dc3dd207a4a68f5e46edf762bb89b"
+    },
+    {
+      "path": "tools/build_avatar.py",
+      "bytes": 3234,
+      "sha256": "9a2ed9e8f3f42c26156f2d0970992b08853eba964a36c29f9eebc65cf588dd1e"
+    },
+    {
+      "path": "tools/create_expression_patches.py",
+      "bytes": 4837,
+      "sha256": "5d1668348ff3781559dddfbf8e0a71b92a39e4eb0e1ea7ce0a33223d3c467ff5"
+    },
+    {
+      "path": "tools/maple_statectl.py",
+      "bytes": 2544,
+      "sha256": "2fd0a88f180cb33dafe9e32db7a81f022b5ba3ece7a9e262039ddb52e9d9b64b"
+    },
+    {
+      "path": "tools/prepare_example_audio.py",
+      "bytes": 2050,
+      "sha256": "c74388659559f477778cd6bf49e8b0b818011b4e9507e3b9c5b70f9e1e41dbd6"
+    },
+    {
+      "path": "tools/render_offline_preview.py",
+      "bytes": 3084,
+      "sha256": "ea2eca89718e8f88e3872bcc10bc5ab1d3b09836f223e539e17e2cd087552901"
+    },
+    {
+      "path": "tools/validate_package.py",
+      "bytes": 10743,
+      "sha256": "d3bcfebfa4b07fa8a6d802017357d9ad4f60d73a9a6d1d5ad05df9136a702876"
+    },
+    {
+      "path": "voice/README.md",
+      "bytes": 3456,
+      "sha256": "1aa44f2c3b3993d98574fddff6e8851b392617fb8a100cf4dce482206df57cb9"
+    },
+    {
+      "path": "voice/recipe.json",
+      "bytes": 2766,
+      "sha256": "459e465f7c1d111b6c509f318aa6d8ad42a38eb9f94a351fd4ebc4fad3e1d502"
+    }
+  ]
+}

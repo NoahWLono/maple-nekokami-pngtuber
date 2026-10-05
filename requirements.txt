@@ -1,0 +1,4 @@
+# Tested versions; Python 3.12 was used for release checks.
+Pillow==12.3.0
+numpy==2.3.5
+# FFmpeg/FFprobe and DejaVu Sans are external system dependencies.

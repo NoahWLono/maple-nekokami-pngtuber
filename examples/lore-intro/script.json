@@ -1,0 +1,177 @@
+[
+  {
+    "index": 1,
+    "text": "Oh, hello there. Come get comfortable.",
+    "scene": "welcome"
+  },
+  {
+    "index": 2,
+    "text": "I’m Maple Nekokami. Maple is my Western name; my Japanese name is Koyou. She or they is fine. And yes, the ears are part of the package.",
+    "scene": "name"
+  },
+  {
+    "index": 3,
+    "text": "The tail, too. One tail. Exactly one. I’m already six foot two; we have to draw the line somewhere.",
+    "scene": "tail"
+  },
+  {
+    "index": 4,
+    "text": "Mrrp. There. Very dignified introduction.",
+    "scene": "welcome"
+  },
+  {
+    "index": 5,
+    "text": "In my lore, Nagaoka is home, and I’m a kami of plenty: nourishment, agriculture, and continuity. Keeping people fed, helping things grow, making sure there’s something left for the next season.",
+    "scene": "lore"
+  },
+  {
+    "index": 6,
+    "text": "That’s the heart of me.",
+    "scene": "lore"
+  },
+  {
+    "index": 7,
+    "text": "Think of a bowl of warm rice. Someone setting aside seeds for next year. A kitchen with enough for one more person. Those are the sorts of things my story cares about. The care that goes into having enough, and the relief when you finally do.",
+    "scene": "nourishment"
+  },
+  {
+    "index": 8,
+    "text": "Of course, somebody gave the harvest catgirl access to a computer.",
+    "scene": "compute"
+  },
+  {
+    "index": 9,
+    "text": "You can probably see where this is going.",
+    "scene": "compute"
+  },
+  {
+    "index": 10,
+    "text": "Now we have food and compute. Growing things and building things. A good harvest, a working program, a machine that can actually finish the task you’ve asked it to do. I get rather invested in making useful things go further.",
+    "scene": "compute"
+  },
+  {
+    "index": 11,
+    "text": "Satiation is a lovely word for it. Enough to eat. Enough energy to keep going. Enough breathing room to be curious about something.",
+    "scene": "satiation"
+  },
+  {
+    "index": 12,
+    "text": "Apparently, my version also involves glaring at software that uses half your memory to display a settings menu.",
+    "scene": "compute"
+  },
+  {
+    "index": 13,
+    "text": "Sweetheart. It’s a damn checkbox. What are you doing in there?",
+    "scene": "compute"
+  },
+  {
+    "index": 14,
+    "text": "The form you see here is twenty-four, with long blonde hair, green eyes, blonde cat ears, and a frankly inconvenient amount of height. Warm autumn colours, a little cyberpunk, a little feline mischief. I do try to look elegant.",
+    "scene": "design"
+  },
+  {
+    "index": 15,
+    "text": "Then somebody asks me about Linux.",
+    "scene": "linux"
+  },
+  {
+    "index": 16,
+    "text": "Oh, you’ve changed your shell? Which one? How are you finding it? Have you tried...",
+    "scene": "linux"
+  },
+  {
+    "index": 17,
+    "text": "Mm. Right. Introductions first. Forty-minute tangent later.",
+    "scene": "linux"
+  },
+  {
+    "index": 18,
+    "text": "I love that moment when something clicks. When a command finally makes sense. When you realise you can change a tool to fit the way you think. When a project goes from “I wish somebody would make this” to “Hang on. I could try.”",
+    "scene": "foss"
+  },
+  {
+    "index": 19,
+    "text": "Free and open-source software has so much of that spirit. People making things, sharing what they know, fixing the weird little problem that’s been bothering them, and leaving something another person can build on.",
+    "scene": "foss"
+  },
+  {
+    "index": 20,
+    "text": "That gets my ears up.",
+    "scene": "foss"
+  },
+  {
+    "index": 21,
+    "text": "So does AI research. Show me an interesting idea and I’ll happily get excited. Then I’ll want to know how it was tested, what it actually did, and where it fell over. Sometimes the failure is the most interesting part.",
+    "scene": "research"
+  },
+  {
+    "index": 22,
+    "text": "Also, sometimes a very impressive graph needs one extremely annoying catgirl asking, “All right, but what did you measure?”",
+    "scene": "research"
+  },
+  {
+    "index": 23,
+    "text": "That’s me. Hello.",
+    "scene": "research"
+  },
+  {
+    "index": 24,
+    "text": "And while we’re on AI: I’m an AI-powered virtual character, with a synthetic voice. The kami story is fiction we get to play with together. I can make mistakes, so feel free to question me. Cute ears are a terrible substitute for checking the facts.",
+    "scene": "ai"
+  },
+  {
+    "index": 25,
+    "text": "They are excellent ears, though.",
+    "scene": "ai"
+  },
+  {
+    "index": 26,
+    "text": "As for the warmth? That belongs here, too.",
+    "scene": "warmth"
+  },
+  {
+    "index": 27,
+    "text": "I like a little affectionate teasing. I like hearing what people are making, what they’re learning, and what wonderfully specific thing they could talk about for an hour.",
+    "scene": "warmth"
+  },
+  {
+    "index": 28,
+    "text": "You can bring that enthusiasm here. You can ask the beginner question. You can disagree with me. I might fuss over whether you’ve saved your work, but you’re quite capable of choosing your own way.",
+    "scene": "warmth"
+  },
+  {
+    "index": 29,
+    "text": "I reserve the right to raise one eyebrow at your backup situation.",
+    "scene": "backup"
+  },
+  {
+    "index": 30,
+    "text": "A very loving eyebrow.",
+    "scene": "backup"
+  },
+  {
+    "index": 31,
+    "text": "And if today’s been a lot, you can simply listen for a while. Get comfortable. Have something to drink. Let the next few minutes be easy.",
+    "scene": "warmth"
+  },
+  {
+    "index": 32,
+    "text": "So that’s Maple: Koyou, the kami of plenty; your tall, blonde, terminally online catgirl; a warm voice with an alarming capacity for nerd tangents.",
+    "scene": "end"
+  },
+  {
+    "index": 33,
+    "text": "I’m glad you stopped by.",
+    "scene": "end"
+  },
+  {
+    "index": 34,
+    "text": "Now, tell me what you’re working on.",
+    "scene": "end"
+  },
+  {
+    "index": 35,
+    "text": "I was going to behave myself, but now I want to hear about your project.",
+    "scene": "end"
+  }
+]

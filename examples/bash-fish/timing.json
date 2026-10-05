@@ -1,0 +1,153 @@
+{
+  "sample_rate": 48000,
+  "duration_s": 61.15777083333333,
+  "audio_file": "build/audio.wav",
+  "lead_s": 0.3,
+  "tail_s": 0.75,
+  "source_duration_s": 60.10777083333333,
+  "static_gain_db": 0.22999999999999998,
+  "alignment_method": "Sentence timing estimated by matching actual waveform pause groups to the 14 approved script paragraphs; silence detector -35 dB / 160 ms, with 50 ms onset and 100 ms release margins. Not word-level alignment; no direct listening audit.",
+  "segments": [
+    {
+      "index": 1,
+      "text": "Wait, tiny terminal rabbit hole!",
+      "speech": "Wait, tiny terminal rabbit hole!",
+      "scene": "intro",
+      "start_s": 0.3,
+      "end_s": 2.7899089999999998,
+      "source_start_s": 0.0,
+      "source_end_s": 2.489909
+    },
+    {
+      "index": 2,
+      "text": "Bash versus fish is a friendship question with syntax consequences.",
+      "speech": "Bash versus fish is a friendship question with syntax consequences.",
+      "scene": "intro",
+      "start_s": 3.09458,
+      "end_s": 7.131609999999999,
+      "source_start_s": 2.7945800000000003,
+      "source_end_s": 6.8316099999999995
+    },
+    {
+      "index": 3,
+      "text": "Bash means Bourne Again Shell. Yes, the name is a dad joke.",
+      "speech": "Bash means Bourne Again Shell. Yes, the name is a dad joke.",
+      "scene": "bash",
+      "start_s": 7.442993,
+      "end_s": 11.951746,
+      "source_start_s": 7.142993000000001,
+      "source_end_s": 11.651746
+    },
+    {
+      "index": 4,
+      "text": "Fish gives you autosuggestions and syntax highlighting out of the box.",
+      "speech": "Fish gives you autosuggestions and syntax highlighting out of the box.",
+      "scene": "fish",
+      "start_s": 12.327506,
+      "end_s": 16.203424,
+      "source_start_s": 12.027505999999999,
+      "source_end_s": 15.903424
+    },
+    {
+      "index": 5,
+      "text": "It's remembering that command from yesterday. Precious.",
+      "speech": "It's remembering that command from yesterday. Precious.",
+      "scene": "fish",
+      "start_s": 16.467982,
+      "end_s": 19.956122,
+      "source_start_s": 16.167982,
+      "source_end_s": 19.656122
+    },
+    {
+      "index": 6,
+      "text": "But fish has different grammar!",
+      "speech": "But fish has different grammar!",
+      "scene": "syntax",
+      "start_s": 20.301451,
+      "end_s": 22.159683,
+      "source_start_s": 20.001451,
+      "source_end_s": 21.859683
+    },
+    {
+      "index": 7,
+      "text": "In bash: name equals Maple, no spaces.",
+      "speech": "In bash: name equals Maple, no spaces.",
+      "scene": "syntax",
+      "start_s": 22.442132,
+      "end_s": 25.962698000000003,
+      "source_start_s": 22.142132,
+      "source_end_s": 25.662698000000002
+    },
+    {
+      "index": 8,
+      "text": "In fish: set, space, name, space, Maple. Little sentence!",
+      "speech": "In fish: set, space, name, space, Maple. Little sentence!",
+      "scene": "syntax",
+      "start_s": 26.23542,
+      "end_s": 32.0,
+      "source_start_s": 25.93542,
+      "source_end_s": 31.700000000000003
+    },
+    {
+      "index": 9,
+      "text": "Fish intentionally isn't POSIX compatible, so pasted bash syntax won't always work.",
+      "speech": "Fish intentionally isn't pozicks compatible, so pasted bash syntax won't always work.",
+      "scene": "compat",
+      "start_s": 32.353039,
+      "end_s": 37.966553,
+      "source_start_s": 32.053039000000005,
+      "source_end_s": 37.666553
+    },
+    {
+      "index": 10,
+      "text": "But you can launch a bash script from fish: bash, space, script dot sh.",
+      "speech": "But you can launch a bash script from fish: bash, space, script dot sh.",
+      "scene": "launch",
+      "start_s": 38.214671,
+      "end_s": 43.475941,
+      "source_start_s": 37.914671000000006,
+      "source_end_s": 43.175941
+    },
+    {
+      "index": 11,
+      "text": "Bash does the interpreting. The shells can be friends!",
+      "speech": "Bash does the interpreting. The shells can be friends!",
+      "scene": "launch",
+      "start_s": 43.730499,
+      "end_s": 47.037867999999996,
+      "source_start_s": 43.430499000000005,
+      "source_end_s": 46.737868
+    },
+    {
+      "index": 12,
+      "text": "My cozy setup? Fish for chatting with the terminal; bash for scripts that target bash.",
+      "speech": "My cozy setup? Fish for chatting with the terminal; bash for scripts that target bash.",
+      "scene": "choice",
+      "start_s": 47.327664,
+      "end_s": 52.56644,
+      "source_start_s": 47.027664,
+      "source_end_s": 52.26644
+    },
+    {
+      "index": 13,
+      "text": "Writing bash doesn't automatically make it portable.",
+      "speech": "Writing bash doesn't automatically make it portable.",
+      "scene": "choice",
+      "start_s": 52.824127,
+      "end_s": 55.80102,
+      "source_start_s": 52.524127,
+      "source_end_s": 55.501020000000004
+    },
+    {
+      "index": 14,
+      "text": "Two shells. One terminal. Zero need for a custody battle.",
+      "speech": "Two shells. One terminal. Zero need for a custody battle.",
+      "scene": "end",
+      "start_s": 56.117029,
+      "end_s": 60.340181,
+      "source_start_s": 55.817029000000005,
+      "source_end_s": 60.040181000000004
+    }
+  ],
+  "source_audio_file": "maple-bash-fish-elevenlabs-v4-generation1.mp3"
+}

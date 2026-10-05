@@ -1,0 +1,55 @@
+1
+00:00:00,300 --> 00:00:02,790
+Wait, tiny terminal rabbit hole!
+
+2
+00:00:03,095 --> 00:00:07,132
+Bash versus fish is a friendship question with syntax consequences.
+
+3
+00:00:07,443 --> 00:00:11,952
+Bash means Bourne Again Shell. Yes, the name is a dad joke.
+
+4
+00:00:12,328 --> 00:00:16,203
+Fish gives you autosuggestions and syntax highlighting out of the box.
+
+5
+00:00:16,468 --> 00:00:19,956
+It's remembering that command from yesterday. Precious.
+
+6
+00:00:20,301 --> 00:00:22,160
+But fish has different grammar!
+
+7
+00:00:22,442 --> 00:00:25,963
+In bash: name equals Maple, no spaces.
+
+8
+00:00:26,235 --> 00:00:32,000
+In fish: set, space, name, space, Maple. Little sentence!
+
+9
+00:00:32,353 --> 00:00:37,967
+Fish intentionally isn't POSIX compatible, so pasted bash syntax won't always work.
+
+10
+00:00:38,215 --> 00:00:43,476
+But you can launch a bash script from fish: bash, space, script dot sh.
+
+11
+00:00:43,730 --> 00:00:47,038
+Bash does the interpreting. The shells can be friends!
+
+12
+00:00:47,328 --> 00:00:52,566
+My cozy setup? Fish for chatting with the terminal; bash for scripts that target bash.
+
+13
+00:00:52,824 --> 00:00:55,801
+Writing bash doesn't automatically make it portable.
+
+14
+00:00:56,117 --> 00:01:00,340
+Two shells. One terminal. Zero need for a custody battle.
